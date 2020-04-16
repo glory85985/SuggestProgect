@@ -1,4 +1,17 @@
 <resources>
     <string name="app_name">SuggestProgect</string>
+    {"اذهب للشاطئ","","","","","","","","",""}
     <string name="Suggest">اقترح</string>
+    <string-array name="namePictures1">
+        <item>اذهب للشاطئ</item>
+        <item>جرب الركوب على الدراجة</item>
+        <item>العب كرة القدم</item>
+        <item>قم بزيارة المتحف</item>
+        <item>اذهب إلى الحديقة</item>
+        <item>اذهب للمطعم</item>
+        <item>جرب رياضة الجري</item>
+        <item>اذهب للتسوق</item>
+        <item>اذهب للسباحة</item>
+        <item>جرب رياضة المشي</item>
+    </string-array>
 </resources>

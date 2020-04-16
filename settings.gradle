@@ -1,0 +1,2 @@
+rootProject.name='SuggestProgect'
+include ':app'
